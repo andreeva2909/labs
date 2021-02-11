@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<!DOCTYPE myportfolio
+PUBLIC "-//ANDREEVA//DTD2//RU" "http://kodaktor.ru/j/_dtd/bd8f8">
+<myportfolio>
+ <mycompetencies>
+    <competency in="HTML" value="good" />
+    <competency in="CSS" value="good" />
+    <competency in="JS" value="worse, but not bad" />
+    <competency in="Web design" value="good" />
+ </mycompetencies>
+</myportfolio>
