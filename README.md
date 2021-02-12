@@ -8,6 +8,7 @@ DTD - http://kodaktor.ru/j/_dtd/32057
 Документ - http://kodaktor.ru/x/_dtd/0cc50
 
 
+
 Задание 2.
 
 
@@ -27,6 +28,7 @@ DTD - http://kodaktor.ru/j/_dtd/bd8f8
 Документ - http://kodaktor.ru/x/b3f4fe9
 
 Результат валидации - https://kodaktor.ru/api2/xsd/b3f4fe9/ceb2611
+
 
 
 Упражнение 2.
