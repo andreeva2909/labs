@@ -8,3 +8,4 @@
 <!ATTLIST Отметка
   дисциплина CDATA #REQUIRED
 >
+
