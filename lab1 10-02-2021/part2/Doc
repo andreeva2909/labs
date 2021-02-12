@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE myportfolio
 PUBLIC "-//ANDREEVA//DTD2//RU" "http://kodaktor.ru/j/_dtd/bd8f8">
 <myportfolio>
@@ -9,3 +9,4 @@ PUBLIC "-//ANDREEVA//DTD2//RU" "http://kodaktor.ru/j/_dtd/bd8f8">
     <competency in="Web design" value="good" />
  </mycompetencies>
 </myportfolio>
+<!-- (c) Анна Андреева -->
