@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE Таблица
-PUBLIC "-//ANDREEVA//DTD//RU" "http://kodaktor.ru/j/_dtd/b2421">
+PUBLIC "-//ANDREEVA//DTD//RU" "http://kodaktor.ru/j/_dtd/32057">
 <Таблица>
  <Студент имя = "Иванов">
    <Отметка дисциплина = "Мультимедиа">3</Отметка>
@@ -20,3 +20,5 @@ PUBLIC "-//ANDREEVA//DTD//RU" "http://kodaktor.ru/j/_dtd/b2421">
    <Отметка дисциплина = "Логика">4</Отметка>
  </Студент>
 </Таблица>
+<!-- (c) Анна Андреева -->
+
