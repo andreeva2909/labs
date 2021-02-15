@@ -39,3 +39,22 @@ DTD - http://kodaktor.ru/j/_dtd/bd8f8
 Документ - http://kodaktor.ru/x/bf3d496
 
 Результат валидации - https://kodaktor.ru/api2/xsd/bf3d496/3214d6c
+
+
+
+# Лабораторная работа № 3
+
+Задание 1.
+
+Таблица - http://kodaktor.ru/x/5cd7c7a
+
+Документ - http://kodaktor.ru/x/74d6983
+
+
+
+Задание 2.
+
+Таблица – http://kodaktor.ru/x/ec6a4a4
+
+Документ – http://kodaktor.ru/x/767e6fc
+
