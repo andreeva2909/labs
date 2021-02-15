@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <xsl:template match="/">
+    <html lang="en">
+      <head>
+        <meta charset = "UTF-8" />
+        <title>Document</title>
+      </head>
+      <body style="background-color:gold">
+        <xsl:for-each select="/таблица/студент/отметка[@дисциплина='Веб-дизайн']">
+          <p>Имя: 
+          <xsl:choose>
+            <xsl:when test=". &lt; 4">
+              <span style="color:red"><xsl:value-of select="../@имя"/></span>
+            </xsl:when>
+            <xsl:otherwise>
+              <span style="background-color:red"><xsl:value-of select="../@имя"/></span>
+            </xsl:otherwise>
+          </xsl:choose>    
+          Веб-дизайн: <strong><em style="color:blue"><xsl:value-of select="."/></em></strong></p>     
+       </xsl:for-each>  
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>
