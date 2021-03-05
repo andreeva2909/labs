@@ -1,0 +1,18 @@
+button {
+    padding: 2px 15px;
+    border-radius: 10px;
+    font: 20px 'calibri';
+}
+
+button:hover{
+    background-color: darkgrey;
+}
+
+
+div {
+    display: flex;	
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+
