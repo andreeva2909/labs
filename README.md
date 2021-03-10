@@ -58,3 +58,10 @@ DTD - http://kodaktor.ru/j/_dtd/bd8f8
 
 Документ – http://kodaktor.ru/x/767e6fc
 
+
+
+# Лабораторная работа № 5. Рекурсивные функции
+
+https://kodaktor.ru/?!=2f43bd6
+
+
