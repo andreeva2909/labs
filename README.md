@@ -59,9 +59,26 @@ DTD - http://kodaktor.ru/j/_dtd/bd8f8
 Документ – http://kodaktor.ru/x/767e6fc
 
 
+# Лабораторная работа № 4
+
+https://andreeva2909.github.io/labs/lab4/index.html
+
+
 
 # Лабораторная работа № 5. Рекурсивные функции
 
 https://kodaktor.ru/?!=2f43bd6
+
+
+
+# Лабораторная работа № 6
+
+
+
+
+
+# Лабораторная работа № 7
+
+https://andreeva2909.github.io/labs/lab7/index.html
 
 
