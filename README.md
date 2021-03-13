@@ -73,12 +73,10 @@ https://kodaktor.ru/?!=2f43bd6
 
 # Лабораторная работа № 6
 
-
+https://andreeva2909.github.io/labs/lab6_prototype/prototype.js
 
 
 
 # Лабораторная работа № 7
 
 https://andreeva2909.github.io/labs/lab7/index.html
-
-
